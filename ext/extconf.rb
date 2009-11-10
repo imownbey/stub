@@ -1,4 +1,4 @@
 
 require 'mkmf'
-dir_config('stubx')
-create_makefile('stubx')
+dir_config('data_holderx')
+create_makefile('data_holderx')
